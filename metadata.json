@@ -1,0 +1,7 @@
+{
+  "name": "Bill's Refrigeration & Air Conditioning",
+  "description": "High-performance commercial refrigeration, HVAC, and kitchen equipment services in Stamford, CT. Serving restaurants and businesses for over 50 years.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
